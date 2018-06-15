@@ -49,3 +49,9 @@ html {
 #mc_embed_signup{ 
 	clear:left; font:12px 'Roboto', sans-serif;
 }
+
+#mc_embed_signup input.button {
+    width: 35%;
+    margin: 0 0 10px 0;
+    min-width: 90px;
+}
