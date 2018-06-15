@@ -1,0 +1,51 @@
+
+html {
+	background: url(grand.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	font-size: 10px;
+}
+
+.welcome {
+	color: white;
+	font-family: 'Roboto', sans-serif;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-40%);
+ 	text-align: center;
+ }
+
+ h1 {
+ 	font-size: 4em;
+ }
+
+ .button {
+ 	font-size: 2em;
+ 	border: 2px solid white;
+ 	background-color: transparent;
+ 	padding: .5em 1em;
+ 	color: white;
+ 	text-decoration: none;
+ }
+
+  .button:hover {
+ 	font-size: 2em;
+ 	font-weight: bold;
+ 	border: 3px solid #2E3436;
+ 	background-color: #E0E1DD;
+ 	padding: .5em 1.2em;
+ 	color: #2E3436;
+ 	text-decoration: none;
+ }
+
+.logo {
+	height: 30%;
+	width: 30%;
+}
+
+#mc_embed_signup{ 
+	clear:left; font:12px 'Roboto', sans-serif;
+}
